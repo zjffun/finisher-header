@@ -2,6 +2,8 @@
 
 # [Finisher Header](https://www.finisher.co/lab/header/)
 
+[![npm](https://img.shields.io/npm/v/finisher-header)](https://www.npmjs.com/package/finisher-header)
+
 Online demo: https://www.finisher.co/lab/header/
 
 Configure your own animated header below and use it on your website
