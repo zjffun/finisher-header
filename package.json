@@ -1,6 +1,6 @@
 {
   "name": "finisher-header",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "Configure your own animated header below and use it on your website",
   "main": "index.js",
   "types": "index.d.ts",
